@@ -62,7 +62,7 @@ Login-Form/
 
 ### 🚀 **Live Interactive Deployment**
 
-🔗 [Experience the interactive dashboard on Vercel](https://asima-javascript-learning-journey.vercel.app/)
+🔗 [Experience the interactive dashboard on Vercel](https://login-form-ui-rho.vercel.app/)
 
 ---
 
@@ -71,7 +71,7 @@ Login-Form/
 **Asima Waheed**
 * **GitHub:** [@asima-waheed](https://github.com/asima-waheed)
 
-* **Live Dashboard:** [.vercel.app](https://.vercel.app/)
+* **Live Dashboard:** [https://login-form-ui-rho.vercel.app/](https://login-form-ui-rho.vercel.app/)
 
 ---
 
