@@ -49,25 +49,24 @@ Login-Form/
 
 ---
 
-### 💡 Technical Growth & Insights
+#### 💡 Technical Growth & Insights
+❖ **Glassmorphism Design System:** Applied translucent backgrounds (rgb(0 0 0 / 10%)) combined with backdrop-filter: blur(20px) and subtle glowing borders.
 
-❖ **Glassmorphism Design System:** Applied translucent backgrounds (`rgb(0 0 0 / 10%)`) combined with `backdrop-filter: blur(20px)` and subtle glowing borders.
+❖ **Continuous Keyframe Animations:** Configured an infinite orbital spinning animation (@keyframes spin 50s infinite linear) with pseudo-elements (::before, ::after) for background movement.
 
-❖ **Continuous Keyframe Animations:** Configured an infinite orbital spinning animation (`@keyframes spin 50s infinite linear`) with pseudo-elements (`::before`, `::after`) for background movement.
-
-❖ **CSS Variables & CSS Grid:** Utilized modern CSS custom properties (`--color-primary`, `--color-muted`) and `display: grid` with `place-items: center` for precise layout alignment.
+❖ **CSS Variables & CSS Grid:** Utilized modern CSS custom properties (--color-primary, --color-muted) and display: grid with place-items: center for precise layout alignment.
 
 ❖ **Interactive Input States:** Engineered custom input outline focus rings using dynamic box shadows and floating text positioning.
 
 ---
 
-### 🚀 Live Interactive Deployment
+### 🚀 **Live Interactive Deployment**
 
 🔗 [Experience the interactive dashboard on Vercel](https://login-form-ui-rho.vercel.app/)
 
 ---
 
-### 👤 Author
+### 👤 **Author**
 
 **Asima Waheed**
 * **GitHub:** [@asima-waheed](https://github.com/asima-waheed)
@@ -75,14 +74,12 @@ Login-Form/
 
 ---
 
-### 📜 License
+### 📜 **License**
 
 This repository is open-source and released under the [MIT License](LICENSE).
 
 ---
 
-### ⭐ Feedback & Connect
+### ⭐ **Feedback & Connect**
 
 I'd love to hear feedback and suggestions from fellow developers! Feel free to star this repository, explore the code, or leave your thoughts in the comments.
-
-

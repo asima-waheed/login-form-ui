@@ -39,19 +39,6 @@ body
         aspect-ratio: 1 / 1;
     }
 
-.main-heading
-
-    {
-        position: relative;
-        z-index: 2;
-        height: 70px;
-        font-family: system-ui, -apple-system, sans-serif;
-        font-size: 20px;
-        font-weight: 700;
-        color: #ffffff;
-        margin: 0 0 42px;
-    }
-
 @keyframes spin
 
     {
@@ -104,13 +91,23 @@ body
         backdrop-filter: blur(20px);
         border-radius: 24px;
         padding: 72px 32px 48px;
-        width: 340px;
+        width: 370px;
         display: flex;
         flex-direction: column;
         align-items: center;
         justify-content: center;
         text-align: center;
         border: 2px solid rgb(255 255 255 / 10%);
+    }
+
+.main-heading
+
+    {
+        font-family: system-ui, -apple-system, sans-serif;
+        font-size: 28px;
+        font-weight: 500;
+        margin: 0 0 10px;
+        padding: 0 0 10px;   
     }
 
 .login h2 
@@ -216,4 +213,3 @@ label, input
         font-size: 14px;
         color: var(--color-muted);
     }
-
